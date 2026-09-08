@@ -19,5 +19,5 @@
 // 2. Écris ta solution sous cette ligne.
 const PI = 3.14;
 let rayon = 5; 
-let primetre = PI*rayon*2
+let primetre = PI*rayon*2;
 console.log(primetre);
