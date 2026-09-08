@@ -14,4 +14,7 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+
+console.log("10" == 10); // true permet la conversion automatique du type avant la comparaison
+console.log("10" === 10); // false compare la valeur et le type sans conversion automatique
+
