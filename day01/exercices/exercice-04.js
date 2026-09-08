@@ -15,4 +15,11 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+console.log(typeof 42);  //"number"
+console.log(typeof "YouCode");  //"string"
+console.log(typeof true); "number" // "boolean"
+console.log(typeof undefined);  // "undefined"
+console.log(typeof null);  // "object" — erreur historique de 1995
+
+
+
