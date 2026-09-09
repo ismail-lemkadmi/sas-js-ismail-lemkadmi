@@ -17,4 +17,9 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let i = 1
+let somme = 0;
+for ( i = 1; i <= 50 ; i++){
+       somme = somme + i;
+}
+       console.log(somme);

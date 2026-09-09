@@ -21,7 +21,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+Avec une boucle for, on connaît généralement déjà le nombre de fois qu’on veut répéter une action.
 
 > À compléter avec mes propres mots.
 
