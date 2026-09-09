@@ -17,4 +17,8 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let factorielle = 1
+for(let i = 6 ; i >= 1 ; i--){
+    factorielle = factorielle * i
+}console.log(factorielle);
+

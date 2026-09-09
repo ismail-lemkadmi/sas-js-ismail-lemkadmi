@@ -17,4 +17,8 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+let puissance = 1
+for (let i = 1 ; i <= 10 ; i++){
+    puissance = puissance * 2
+}console.log(puissance);
+
