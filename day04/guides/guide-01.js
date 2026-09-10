@@ -9,4 +9,7 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
+function saluer(nom){
+    return(`bounjour, ${nom} !` )
+}
+console.log(saluer("lemkadmi")); 
