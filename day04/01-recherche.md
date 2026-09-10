@@ -6,7 +6,6 @@
 > Le but n'est pas de copier une définition. Prépare une explication simple et un exemple personnel.
 
 ## Mode d'emploi
-
 1. Recherche la notion.
 2. Reformule la réponse avec tes propres mots.
 3. Ajoute un petit exemple lorsque c'est possible.
@@ -19,10 +18,10 @@
 
 > Quelle est la différence entre un *paramètre* et un *argument* d'une fonction ?
 
-- [ ] J'ai recherché et compris la notion.
+- [✓] J'ai recherché et compris la notion.
 
-**Ma réponse :**
-
+**Un paramètre est le nom d’une variable définie dans une fonction, qui attend de recevoir une valeur.**
+**Un argument est la valeur réelle que l’on donne à une fonction lorsqu’on l’appelle.**
 > À compléter avec mes propres mots.
 
 ---
@@ -31,9 +30,10 @@
 
 > Quelle est la différence entre l'instruction `return` et `console.log()` dans une fonction ?
 
-- [ ] J'ai recherché et compris la notion.
+- [✓] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**return sert a renvoyer une valeur depuis une fonction**
+**console.log() sert seulement a afficher une valeur dans la console**
 
 > À compléter avec mes propres mots.
 
@@ -43,9 +43,9 @@
 
 > Que se passe-t-il si l'on oublie le mot-clé `return` dans une fonction censée renvoyer une valeur ?
 
-- [ ] J'ai recherché et compris la notion.
+- [✓] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Si on oublie return, la fonction retourne undefined au lieu de la valeur attendue.**
 
 > À compléter avec mes propres mots.
 
