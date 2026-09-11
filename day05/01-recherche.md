@@ -21,7 +21,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**Une chaîne de caractères en JavaScript est immuable. La méthode .toUpperCase() retourne une nouvelle chaîne en majuscules sans modifier la chaîne originale**
 
 > À compléter avec mes propres mots.
 
@@ -33,7 +33,9 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**.slice() → extrait une partie d’une chaîne de caractères et accepte aussi les indices négatifs.
+.substring() → fonctionne presque comme .slice(), mais les indices négatifs ne sont pas gérés de la même manière.
+.substr() → est une ancienne méthode qui utilise start + length et elle est dépréciée / moins recommandée**
 
 > À compléter avec mes propres mots.
 
@@ -45,7 +47,7 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**La méthode .split() permet de transformer la chaîne "A,B,C" en tableau ["A", "B", "C"]**
 
 > À compléter avec mes propres mots.
 
@@ -57,7 +59,9 @@
 
 - [ ] J'ai recherché et compris la notion.
 
-**Ma réponse :**
+**indexOf()  fait une recherche simple dans une chaîne et permet de préciser à partir de quelle position commencer la recherche
+
+search()  est surtout utile pour faire des recherches avec des expressions régulières (RegExp)**
 
 > À compléter avec mes propres mots.
 

@@ -9,4 +9,6 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
+let date = "2024-10-15";
+
+console.log(date.slice(0,4));
