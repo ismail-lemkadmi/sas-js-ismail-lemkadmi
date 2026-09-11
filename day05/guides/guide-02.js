@@ -9,5 +9,3 @@
  */
 'use strict';
 
-let phrase "j'apprends le javascript a YouCode";
-let phraseMinuscule = 

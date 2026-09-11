@@ -14,4 +14,7 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+function Domain(email) {
+    return email.slice(email.indexOf("@") +1 );
+}
+console.log(Domain(Domain("contact@youcode.ma")));
