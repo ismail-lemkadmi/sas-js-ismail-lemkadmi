@@ -14,4 +14,8 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+const  couleurs = ["red","white", "yellow", "pink", "blue"];
+
+console.log(couleurs[0]);
+console.log(couleurs[2]);
+

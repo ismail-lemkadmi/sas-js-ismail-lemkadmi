@@ -14,4 +14,5 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+const nombres = [1, 2, 3, 4, 5];
+console.log(nombres.reverse());

@@ -14,4 +14,14 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+function funTableau(tableau){
+    let pairs =[];
+    for (let i = 0 ; i < tableau.length; i++) {
+       if (tableau[i] % 2 === 0){
+        pairs.push(tableau[i])
+       }
+    }
+       return(pairs)
+
+}
+console.log(funTableau([1, 2, 3 , 4, 5, 6]));

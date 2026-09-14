@@ -14,4 +14,22 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+function trouverMinMax(tableau){
+  let plusGrand = tableau[0];
+let plusPetit = tableau[0];
+  for (let i= 0 ; i < tableau.length ; i++){
+    if (tableau[i] > plusGrand ){
+        plusGrand = tableau[i];
+    }
+    if (tableau[i] < plusPetit) {
+       plusPetit = tableau[i]
+    }
+    }
+return[plusGrand, plusPetit]
+}
+
+
+
+
+// console.log(trouverMinMax([50,20,1,32,11,9,87,7,4]));
+//[87, 1] 
