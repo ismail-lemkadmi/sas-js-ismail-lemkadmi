@@ -1,14 +1,14 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 05 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * FORMATAGE MONÉTAIRE
+ * JOUR 06 · EXERCICE 06 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
+ * FUSION DE TABLEAUX
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction formater(montant) qui prend 1234567 (Number ou String) et retourne "1 234 567 MAD". (Vous pouvez chercher comment utiliser les regex pour insérer des espaces, ou utiliser les boucles/slice).
+ * Vous avez groupe1 = ["A", "B"] et groupe2 = ["C", "D"]. Fusionnez-les pour obtenir ["A", "B", "C", "D"].
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-13
- * ▶️ Commande : node day05/exercices/exercice-13.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-06
+ * ▶️ Commande : node day05/exercices/exercice-06.js
  */
 'use strict';
 

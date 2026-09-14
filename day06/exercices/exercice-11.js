@@ -1,14 +1,14 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 05 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * FORMATAGE MONÉTAIRE
+ * JOUR 06 · EXERCICE 11 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * ÉCHANTILLONNAGE (SLICE)
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction formater(montant) qui prend 1234567 (Number ou String) et retourne "1 234 567 MAD". (Vous pouvez chercher comment utiliser les regex pour insérer des espaces, ou utiliser les boucles/slice).
+ * À partir d'un grand tableau de 100 éléments, utilisez .slice() pour extraire les 10 premiers (la première page).
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-13
- * ▶️ Commande : node day05/exercices/exercice-13.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-11
+ * ▶️ Commande : node day05/exercices/exercice-11.js
  */
 'use strict';
 

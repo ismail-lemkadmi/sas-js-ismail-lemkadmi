@@ -1,14 +1,14 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 05 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * FORMATAGE MONÉTAIRE
+ * JOUR 06 · EXERCICE 04 · NIVEAU 1 : FONDATIONS (DÉBUTANTS)
+ * PARCOURIR AVEC UN `FOR` CLASSIQUE
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction formater(montant) qui prend 1234567 (Number ou String) et retourne "1 234 567 MAD". (Vous pouvez chercher comment utiliser les regex pour insérer des espaces, ou utiliser les boucles/slice).
+ * Créez nombres = [10, 20, 30, 40]. Utilisez une boucle for (avec i = 0 jusqu'à length) pour afficher chaque nombre multiplié par 2.
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-13
- * ▶️ Commande : node day05/exercices/exercice-13.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-04
+ * ▶️ Commande : node day05/exercices/exercice-04.js
  */
 'use strict';
 

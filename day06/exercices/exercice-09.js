@@ -1,14 +1,14 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 05 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * FORMATAGE MONÉTAIRE
+ * JOUR 06 · EXERCICE 09 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
+ * FILTRAGE MANUEL (LES PAIRS)
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction formater(montant) qui prend 1234567 (Number ou String) et retourne "1 234 567 MAD". (Vous pouvez chercher comment utiliser les regex pour insérer des espaces, ou utiliser les boucles/slice).
+ * Créez une fonction qui prend un tableau de nombres, par exemple [1, 2, 3, 4, 5, 6], et retourne un NOUVEAU tableau ne contenant que les nombres pairs.
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-13
- * ▶️ Commande : node day05/exercices/exercice-13.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-09
+ * ▶️ Commande : node day05/exercices/exercice-09.js
  */
 'use strict';
 

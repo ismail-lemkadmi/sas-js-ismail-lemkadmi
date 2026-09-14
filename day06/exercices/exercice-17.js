@@ -1,14 +1,14 @@
 /**
  * ─────────────────────────────────────────────────────────────
- * JOUR 05 · EXERCICE 13 · NIVEAU 2 : CONSOLIDATION (INTERMÉDIAIRES)
- * FORMATAGE MONÉTAIRE
+ * JOUR 06 · EXERCICE 17 · NIVEAU 3 : DÉFI (AVANCÉS)
+ * OCCURRENCES
  * ─────────────────────────────────────────────────────────────
  *
  * 🎯 MISSION
- * Créez une fonction formater(montant) qui prend 1234567 (Number ou String) et retourne "1 234 567 MAD". (Vous pouvez chercher comment utiliser les regex pour insérer des espaces, ou utiliser les boucles/slice).
+ * Créez une fonction qui prend un tableau de mots ["pomme", "banane", "pomme", "orange", "banane", "pomme"]. Comptez combien de fois chaque élément apparaît. (Vous pouvez afficher : "pomme: 3, banane: 2, orange: 1").
  *
- * 📖 Consigne détaillée : ../03-exercices.md#exercice-13
- * ▶️ Commande : node day05/exercices/exercice-13.js
+ * 📖 Consigne détaillée : ../03-exercices.md#exercice-17
+ * ▶️ Commande : node day05/exercices/exercice-17.js
  */
 'use strict';
 
