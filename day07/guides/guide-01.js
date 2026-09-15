@@ -9,4 +9,10 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
+const voiture = {
+    marque: "Toyota",
+    modele: "Corolla",
+    annee: 2020
+};
+
+console.log(voiture.marque);

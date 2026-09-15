@@ -8,5 +8,6 @@
  * Aide : consulte ../02-guides.md seulement si tu bloques.
  */
 'use strict';
+let cleRecherche = "modele";
 
-// TODO: écris ta solution ici.
+console.log(voiture[cleRecherche]);

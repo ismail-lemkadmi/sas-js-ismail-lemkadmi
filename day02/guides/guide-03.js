@@ -9,4 +9,3 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.

@@ -9,4 +9,14 @@
  */
 'use strict';
 
-// TODO: écris ta solution ici.
+let N = 100;
+let M = 0 ;
+while (N >= 1){
+
+N = N / 2
+ M++
+}
+console.log(M)
+
+
+

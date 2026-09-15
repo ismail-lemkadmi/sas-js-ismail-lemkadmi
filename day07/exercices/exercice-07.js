@@ -14,4 +14,10 @@
 
 // 1. Identifie les données nécessaires.
 // 2. Écris ta solution sous cette ligne.
-// TODO: écris ta solution ici.
+const livres = [
+    { titre: "Livre 1", auteur: "Auteur 1" },
+    { titre: "Livre 2", auteur: "Auteur 2" },
+    { titre: "Livre 3", auteur: "Auteur 3" }
+];
+
+console.log(livres[1].titre);

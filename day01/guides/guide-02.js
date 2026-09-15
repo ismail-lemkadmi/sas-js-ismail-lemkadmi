@@ -8,5 +8,8 @@
  * Aide : consulte ../02-guides.md seulement si tu bloques.
  */
 'use strict';
+let data =  "123"
+console.log(typeof data);
+console.log(typeof Number(data));
 
-// TODO: écris ta solution ici.
+
